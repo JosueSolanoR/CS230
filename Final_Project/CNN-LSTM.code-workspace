@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../orderd_by_time_processed"
+		}
+	],
+	"settings": {}
+}
